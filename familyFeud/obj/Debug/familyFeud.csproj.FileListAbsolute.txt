@@ -1,0 +1,17 @@
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.csproj.AssemblyReference.cache
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.csproj.SuggestedBindingRedirects.cache
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.Properties.Resources.resources
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.csproj.GenerateResource.cache
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.csproj.CoreCompileInputs.cache
+C:\Users\avery\source\repos\familyFeud\familyFeud\bin\Debug\familyFeud.exe.config
+C:\Users\avery\source\repos\familyFeud\familyFeud\bin\Debug\familyFeud.exe
+C:\Users\avery\source\repos\familyFeud\familyFeud\bin\Debug\familyFeud.pdb
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.exe
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.pdb
+C:\Users\avery\source\repos\familyFeud\familyFeud\bin\Debug\Newtonsoft.Json.dll
+C:\Users\avery\source\repos\familyFeud\familyFeud\bin\Debug\Newtonsoft.Json.xml
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.adminPanel.resources
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.controlPanel.resources
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.csproj.CopyComplete
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.gameForm.resources
+C:\Users\avery\source\repos\familyFeud\familyFeud\obj\Debug\familyFeud.wrongForm.resources
